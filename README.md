@@ -3,7 +3,7 @@
 </p>
 
 ## Hi , 
-### I am **Purva Jadhav**👩🏼‍🦰👋, figuring out how coding can solve real world problems through different ways , learning and trying to build real world softwares
+I am **Purva Jadhav**👩🏼‍🦰👋, figuring out how coding can solve real world problems through different ways , learning and trying to build real world softwares
 
 ## About Me
 - Computer Engineer Student
