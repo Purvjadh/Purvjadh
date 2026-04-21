@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Purvjadh/Purvjadh/blob/main/Build%20with%20Purva.png" />
+  <img src="" />
 </p>
 
 ## Hi , I am Purva 👋
