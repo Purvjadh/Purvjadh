@@ -2,7 +2,8 @@
   <img src="https://github.com/Purvjadh/Purvjadh/blob/main/CODE%20WITH%20PURVA.png" />
 </p>
 
-Hiii , I am **Purva Jadhav**👩🏼‍🦰👋, figuring out how coding can solve real world problems through different ways , learning and trying to build real world softwares
+<h3>Hiii,</h3> 
+I am **Purva Jadhav**👩🏼‍🦰👋, figuring out how coding can solve real world problems through different ways , learning and trying to build real world softwares
 
 ## About Me
 - Computer Engineer Student
