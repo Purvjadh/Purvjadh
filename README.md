@@ -2,7 +2,8 @@
   <img src="https://github.com/Purvjadh/Purvjadh/blob/main/CODE%20WITH%20PURVA.png" />
 </p>
 
-## Hi , I am Purva Jadhav👩🏼‍🦰👋
+## Hi , 
+### I am **Purva Jadhav**👩🏼‍🦰👋, figuring out how coding can solve real world problems through different ways , learning and trying to build real world softwares
 
 ## About Me
 - Computer Engineer Student
@@ -10,6 +11,7 @@
 - Focuses on Learning and Building daily
 - Currently in learning phase and strenthning my skills to become skilled developer
 - Believes in continuous learning
+- Want to build something big which will really help people
 
 ## Connect with me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/purva-jadhav-5590572b4)
