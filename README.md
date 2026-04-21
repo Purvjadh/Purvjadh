@@ -2,7 +2,7 @@
   <img src="https://github.com/Purvjadh/Purvjadh/blob/main/CODE%20WITH%20PURVA.png" />
 </p>
 
-## Hi , I am Purva 👋
+## Hi , I am Purva Jadhav👩🏼‍🦰👋
 
 ## About Me
 - Computer Engineer Student
